@@ -1,0 +1,3 @@
+charm-crypto==0.50
+pycryptodome==3.20.0
+neo4j==5.16.0
